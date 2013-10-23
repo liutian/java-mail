@@ -1,0 +1,2380 @@
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 28] %mail:1373445740214%Sender: 11@visionet.com.cn
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 29] %mail:1373445740214%To: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 30] %mail:1373445740214%CC: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 31] %mail:1373445740214%BCC: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 32] %mail:1373445740214%Subject: 邮件email
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 33] %mail:1373445740214%Body: null
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 34] %mail:1373445740214%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 35] %mail:1373445740214%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=b94fb2a5f856e8b4fb7dd285ecb9aa7c&time=1373445739&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 36] %mail:1373445740214%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 37] %mail:1373445740214%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 38] %mail:1373445740214%In Reply To: null
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740214%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 59] %mail:1373445740214%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 28] %mail:1373445740609%Sender: 1989ti.anyi@163.com
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 29] %mail:1373445740609%To: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 30] %mail:1373445740609%CC: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 31] %mail:1373445740609%BCC: [1191577401@qq.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 32] %mail:1373445740609%Subject: 邮件email
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 33] %mail:1373445740609%Body: null
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 34] %mail:1373445740609%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 35] %mail:1373445740609%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=f1b8c9a1ebab25b4afce9cdabba952af&time=1373445740&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 36] %mail:1373445740609%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 37] %mail:1373445740609%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 38] %mail:1373445740609%In Reply To: null
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 47] %mail:1373445740609%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:42:20] [MailRecipient-DEBUG 59] %mail:1373445740609%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 28] %mail:1373446349546%Sender: 11@visionet.com.cn
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 29] %mail:1373446349546%To: [1191577401@qq.com]
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 30] %mail:1373446349546%CC: [1191577401@qq.com]
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 31] %mail:1373446349546%BCC: [1191577401@qq.com]
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 32] %mail:1373446349546%Subject: 邮件email
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 33] %mail:1373446349546%Body: null
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 34] %mail:1373446349546%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 35] %mail:1373446349546%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=c5f1cf3de55c06786e63f2911fa47cd4&time=1373446349&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 36] %mail:1373446349546%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 37] %mail:1373446349546%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 38] %mail:1373446349546%In Reply To: null
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 47] %mail:1373446349546%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:52:29] [MailRecipient-DEBUG 59] %mail:1373446349546%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 28] %mail:1373446415008%Sender: 11@visionet.com.cn
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 29] %mail:1373446415008%To: [1191577401@qq.com]
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 30] %mail:1373446415008%CC: [1191577401@qq.com]
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 31] %mail:1373446415008%BCC: [1191577401@qq.com]
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 32] %mail:1373446415008%Subject: 邮件email
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 33] %mail:1373446415008%Body: null
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 34] %mail:1373446415008%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 35] %mail:1373446415008%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=021aad0d4e0c7a99a8bc3a15cfe5402b&time=1373446414&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 36] %mail:1373446415008%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 37] %mail:1373446415008%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 38] %mail:1373446415008%In Reply To: null
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 47] %mail:1373446415008%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:53:35] [MailRecipient-DEBUG 59] %mail:1373446415008%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 28] %mail:1373446539770%Sender: 11@visionet.com.cn
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 29] %mail:1373446539770%To: [1191577401@qq.com]
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 30] %mail:1373446539770%CC: [1191577401@qq.com]
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 31] %mail:1373446539770%BCC: [1191577401@qq.com]
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 32] %mail:1373446539770%Subject: 邮件email
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 33] %mail:1373446539770%Body: null
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 34] %mail:1373446539770%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 35] %mail:1373446539770%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=017c80692a92f0194111adb0cdbea05b&time=1373446539&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 36] %mail:1373446539770%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 37] %mail:1373446539770%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 38] %mail:1373446539770%In Reply To: null
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 47] %mail:1373446539770%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:55:39] [MailRecipient-DEBUG 59] %mail:1373446539770%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 28] %mail:1373446554326%Sender: 1989ti.anyi@163.com
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 29] %mail:1373446554326%To: [1191577401@qq.com]
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 30] %mail:1373446554326%CC: [1191577401@qq.com]
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 31] %mail:1373446554326%BCC: [1191577401@qq.com]
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 32] %mail:1373446554326%Subject: 邮件email
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 33] %mail:1373446554326%Body: null
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 34] %mail:1373446554326%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=57c2ff9c3b3c558029acc39bee7da91f&time=1373446554&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 35] %mail:1373446554326%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=1064588c6d36208804f41c5ba70e88b9&time=1373446553&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 36] %mail:1373446554326%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 37] %mail:1373446554326%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 38] %mail:1373446554326%In Reply To: null
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 47] %mail:1373446554326%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 16:55:54] [MailRecipient-DEBUG 59] %mail:1373446554326%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 28] %mail:1373447045763%Sender: 11@visionet.com.cn
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 29] %mail:1373447045763%To: [1191577401@qq.com]
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 30] %mail:1373447045763%CC: [1191577401@qq.com]
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 31] %mail:1373447045763%BCC: [1191577401@qq.com]
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 32] %mail:1373447045763%Subject: 邮件email
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 33] %mail:1373447045763%Body: null
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 34] %mail:1373447045763%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 35] %mail:1373447045763%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=898e6c65198dec8c747eaf3a172d2441&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 36] %mail:1373447045763%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 37] %mail:1373447045763%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 38] %mail:1373447045763%In Reply To: null
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 47] %mail:1373447045763%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:04:05] [MailRecipient-DEBUG 59] %mail:1373447045763%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 28] %mail:1373447046115%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 29] %mail:1373447046115%To: [1191577401@qq.com]
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 30] %mail:1373447046115%CC: [1191577401@qq.com]
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 31] %mail:1373447046115%BCC: [1191577401@qq.com]
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 32] %mail:1373447046115%Subject: 邮件email
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 33] %mail:1373447046115%Body: null
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 34] %mail:1373447046115%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 35] %mail:1373447046115%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=30053e68c8fa776073d70e8524159f83&time=1373447045&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 36] %mail:1373447046115%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 37] %mail:1373447046115%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 38] %mail:1373447046115%In Reply To: null
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 47] %mail:1373447046115%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:04:06] [MailRecipient-DEBUG 59] %mail:1373447046115%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 28] %mail:1373447323553%Sender: 11@visionet.com.cn
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 29] %mail:1373447323553%To: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 30] %mail:1373447323553%CC: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 31] %mail:1373447323553%BCC: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 32] %mail:1373447323553%Subject: 邮件email
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 33] %mail:1373447323553%Body: null
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 34] %mail:1373447323553%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=27d4c7fc98e17cf91ff192e87a08f46f&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 35] %mail:1373447323553%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=41dd97d847a1f0387718f3052697bb56&time=1373447322&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 36] %mail:1373447323553%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 37] %mail:1373447323553%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 38] %mail:1373447323553%In Reply To: null
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323553%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 59] %mail:1373447323553%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 28] %mail:1373447323850%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 29] %mail:1373447323850%To: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 30] %mail:1373447323850%CC: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 31] %mail:1373447323850%BCC: [1191577401@qq.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 32] %mail:1373447323850%Subject: 邮件email
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 33] %mail:1373447323850%Body: null
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 34] %mail:1373447323850%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 35] %mail:1373447323850%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=dc515e111eb94938fb7a78408c2a8dc7&time=1373447323&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 36] %mail:1373447323850%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 37] %mail:1373447323850%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 38] %mail:1373447323850%In Reply To: null
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 47] %mail:1373447323850%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:08:43] [MailRecipient-DEBUG 59] %mail:1373447323850%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 28] %mail:1373448427249%Sender: 11@visionet.com.cn
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 29] %mail:1373448427249%To: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 30] %mail:1373448427249%CC: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 31] %mail:1373448427249%BCC: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 32] %mail:1373448427249%Subject: 邮件email
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 33] %mail:1373448427249%Body: null
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 34] %mail:1373448427249%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 35] %mail:1373448427249%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=32fca88bc322ea41783ec5ea51a29db2&time=1373448426&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 36] %mail:1373448427249%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 37] %mail:1373448427249%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 38] %mail:1373448427249%In Reply To: null
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427249%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 59] %mail:1373448427249%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 28] %mail:1373448427584%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 29] %mail:1373448427584%To: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 30] %mail:1373448427584%CC: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 31] %mail:1373448427584%BCC: [1191577401@qq.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 32] %mail:1373448427584%Subject: 邮件email
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 33] %mail:1373448427584%Body: null
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 34] %mail:1373448427584%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 35] %mail:1373448427584%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=183952e7d7c902be1b685815ca884c21&time=1373448427&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 36] %mail:1373448427584%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 37] %mail:1373448427584%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 38] %mail:1373448427584%In Reply To: null
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 47] %mail:1373448427584%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:27:07] [MailRecipient-DEBUG 59] %mail:1373448427584%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 28] %mail:1373448437239%Sender: 11@visionet.com.cn
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 29] %mail:1373448437239%To: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 30] %mail:1373448437239%CC: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 31] %mail:1373448437239%BCC: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 32] %mail:1373448437239%Subject: 邮件email
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 33] %mail:1373448437239%Body: null
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 34] %mail:1373448437239%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 35] %mail:1373448437239%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=1&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiJwBWhFEADJqOsQAAsN&part=2&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=3&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=4&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=5&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=6&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiJwBWhFEADJqOsQAAsN&part=7&sign=ec3c478a919150f2ee5542809def6f53&time=1373448436&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 36] %mail:1373448437239%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 37] %mail:1373448437239%Message ID: <1795829092.3.1373444729000.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 38] %mail:1373448437239%In Reply To: null
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437239%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 59] %mail:1373448437239%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 28] %mail:1373448437853%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 29] %mail:1373448437853%To: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 30] %mail:1373448437853%CC: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 31] %mail:1373448437853%BCC: [1191577401@qq.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 32] %mail:1373448437853%Subject: 邮件email
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 33] %mail:1373448437853%Body: null
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 34] %mail:1373448437853%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 35] %mail:1373448437853%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=1&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=xtbB0BlWhFEACyvkTgAAsA&part=2&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=3&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=4&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=5&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=6&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=xtbB0BlWhFEACyvkTgAAsA&part=7&sign=c0f0947691b2547c9f133e4a69e9a196&time=1373448437&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 36] %mail:1373448437853%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 37] %mail:1373448437853%Message ID: <1795829092.3.1373445429338.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 38] %mail:1373448437853%In Reply To: null
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 47] %mail:1373448437853%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:27:17] [MailRecipient-DEBUG 59] %mail:1373448437853%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-07-10 17:28:23] [MailSender-DEBUG 28] %mail:1373448503680%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:28:23] [MailSender-DEBUG 29] %mail:1373448503680%To: [1191577401@qq.com]
+[2013-07-10 17:28:23] [MailSender-DEBUG 30] %mail:1373448503680%CC: [tianyi_2514@126.com]
+[2013-07-10 17:28:23] [MailSender-DEBUG 31] %mail:1373448503680%BCC: [1989ti.anyi@163.com]
+[2013-07-10 17:28:23] [MailSender-DEBUG 32] %mail:1373448503680%Subject: 邮件email
+[2013-07-10 17:28:23] [MailSender-DEBUG 33] %mail:1373448503680%Body: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+[2013-07-10 17:28:23] [MailSender-DEBUG 34] %mail:1373448503680%Body-html: null
+[2013-07-10 17:28:23] [MailSender-DEBUG 35] %mail:1373448503680%Body-text: null
+[2013-07-10 17:28:23] [MailSender-DEBUG 36] %mail:1373448503680%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:28:23] [MailSender-DEBUG 37] %mail:1373448503680%Message ID: null
+[2013-07-10 17:28:23] [MailSender-DEBUG 38] %mail:1373448503680%In Reply To: null
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #f文件.docx: E:\mailtest\6.docx
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #g文件.7z: E:\mailtest\7.7z
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #d文件.rar: E:\mailtest\4.rar
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #b文件.txt: E:\mailtest\2.txt
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #e文件.pptx: E:\mailtest\5.pptx
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #a文件.xlsx: E:\mailtest\1.xlsx
+[2013-07-10 17:28:23] [MailSender-DEBUG 47] %mail:1373448503680%Attachment #c文件.zip: E:\mailtest\3.zip
+[2013-07-10 17:28:23] [MailSender-DEBUG 59] %mail:1373448503680%InnerResources #abbdsd: E:\mailtest\8.jpg
+[2013-07-10 17:28:28] [MailSender-DEBUG 63] duration:4465ms
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 28] %mail:1373448527954%Sender: 1989ti.anyi@163.com
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 29] %mail:1373448527954%To: [1191577401@qq.com]
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 30] %mail:1373448527954%CC: [1191577401@qq.com]
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 31] %mail:1373448527954%BCC: [1191577401@qq.com]
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 32] %mail:1373448527954%Subject: 邮件email
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 33] %mail:1373448527954%Body: null
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 34] %mail:1373448527954%Body-html: <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网易邮箱</title>
+
+</head>
+<body>
+<p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+<style type="text/css">
+.netease-attDown{ width:430px;height:auto;background-color:#F6F9FC;border:#C5D2DA 1px solid;padding:12px;line-height:160%;font-size:12px;white-space:nowrap;font-family:Verdana}
+.netease-attDown-tit{ color:#A0A0A0 }
+.netease-attDown-tit strong{ color:#008000 }
+.netease-attDown a{ color:#0669B2}
+.netease-attDown dl,
+.netease-attDown dt,
+.netease-attDown dd{ margin:0;padding:0;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.netease-attDown dt{ font-weight:bold;color:#333;margin-top:8px}
+.netease-attDown dt .info{color:#999;font-weight:normal}
+.netease-notice{padding-bottom:5px;white-space:normal}
+</style>
+
+<div class="netease-attDown">
+	<div class="netease-notice"><img src="http://mimg.127.net/xm/all/attpreview/img/ico_notice.gif" alt="提示图标" style="vertical-align:middle" /> 邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。</div>
+	<div class="netease-attDown-tit">共有 <strong>7</strong> 个附件</div>
+	
+		<dl>
+			<dt title="f文件.docx">f文件.docx<span class="info">(13K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiUR1WhFEADcQQrgAAs4&part=1&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=1&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="g文件.7z">g文件.7z<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiUR1WhFEADcQQrgAAs4&part=2&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="d文件.rar">d文件.rar<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiUR1WhFEADcQQrgAAs4&part=3&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=3&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="b文件.txt">b文件.txt<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiUR1WhFEADcQQrgAAs4&part=4&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=4&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="e文件.pptx">e文件.pptx<span class="info">(29K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiUR1WhFEADcQQrgAAs4&part=5&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=5&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="a文件.xlsx">a文件.xlsx<span class="info">(9K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiUR1WhFEADcQQrgAAs4&part=6&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=6&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+		<dl>
+			<dt title="c文件.zip">c文件.zip<span class="info">(1K)</span></dt>
+			<dd>
+				<a href="http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiUR1WhFEADcQQrgAAs4&part=7&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">极速下载</a>
+				<a href="http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=7&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com" target="_blank">在线预览</a>
+			</dd>
+		</dl>
+	
+</div>
+
+</body>
+</html>
+
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 35] %mail:1373448527954%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa【来自网易邮箱的超大附件】
+提示：邮件带有附件预览链接，若您转发或回复此邮件时不希望对方预览附件，建议您手动删除链接。
+
+f文件.docx
+下载: http://preview.mail.163.com/xdownload?filename=f%E6%96%87%E4%BB%B6.docx&mid=1tbiUR1WhFEADcQQrgAAs4&part=1&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=1&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+g文件.7z
+下载: http://preview.mail.163.com/xdownload?filename=g%E6%96%87%E4%BB%B6.7z&mid=1tbiUR1WhFEADcQQrgAAs4&part=2&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+d文件.rar
+下载: http://preview.mail.163.com/xdownload?filename=d%E6%96%87%E4%BB%B6.rar&mid=1tbiUR1WhFEADcQQrgAAs4&part=3&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=3&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+b文件.txt
+下载: http://preview.mail.163.com/xdownload?filename=b%E6%96%87%E4%BB%B6.txt&mid=1tbiUR1WhFEADcQQrgAAs4&part=4&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=4&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+e文件.pptx
+下载: http://preview.mail.163.com/xdownload?filename=e%E6%96%87%E4%BB%B6.pptx&mid=1tbiUR1WhFEADcQQrgAAs4&part=5&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=5&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+a文件.xlsx
+下载: http://preview.mail.163.com/xdownload?filename=a%E6%96%87%E4%BB%B6.xlsx&mid=1tbiUR1WhFEADcQQrgAAs4&part=6&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=6&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+c文件.zip
+下载: http://preview.mail.163.com/xdownload?filename=c%E6%96%87%E4%BB%B6.zip&mid=1tbiUR1WhFEADcQQrgAAs4&part=7&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+预览: http://preview.mail.163.com/preview?mid=1tbiUR1WhFEADcQQrgAAs4&part=7&sign=2b43fc0c6f696b30522078d1b1589080&time=1373448527&uid=1989ti.anyi%40163.com
+
+
+
+
+
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 36] %mail:1373448527954%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 37] %mail:1373448527954%Message ID: <1795829092.3.1373448503714.JavaMail.liuss@liuss-PC>
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 38] %mail:1373448527954%In Reply To: null
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #f文件.docx: e:\emaildir\f文件.docx
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #g文件.7z: e:\emaildir\g文件.7z
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #d文件.rar: e:\emaildir\d文件.rar
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #a文件.xlsx: e:\emaildir\a文件.xlsx
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #e文件.pptx: e:\emaildir\e文件.pptx
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 47] %mail:1373448527954%Attachment #c文件.zip: e:\emaildir\c文件.zip
+[2013-07-10 17:28:47] [MailRecipient-DEBUG 59] %mail:1373448527954%InnerResources #abbdsd: e:\emaildir\abbdsd
+[2013-10-23 14:58:58] [MailSender-DEBUG 28] %mail:1382511538259%Sender: 1989ti.anyi@163.com
+[2013-10-23 14:58:58] [MailSender-DEBUG 29] %mail:1382511538259%To: [1191577401@qq.com]
+[2013-10-23 14:58:58] [MailSender-DEBUG 30] %mail:1382511538259%CC: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 31] %mail:1382511538259%BCC: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 32] %mail:1382511538259%Subject: 邮件email
+[2013-10-23 14:58:58] [MailSender-DEBUG 33] %mail:1382511538259%Body: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+[2013-10-23 14:58:58] [MailSender-DEBUG 34] %mail:1382511538259%Body-html: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 35] %mail:1382511538259%Body-text: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 36] %mail:1382511538259%Reply to: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 37] %mail:1382511538259%Message ID: null
+[2013-10-23 14:58:58] [MailSender-DEBUG 38] %mail:1382511538259%In Reply To: null
+[2013-10-23 14:59:10] [MailSender-DEBUG 63] duration:12294ms
+[2013-10-23 15:03:58] [MailSender-DEBUG 28] %mail:1382511838455%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:03:58] [MailSender-DEBUG 29] %mail:1382511838455%To: [1191577401@qq.com]
+[2013-10-23 15:03:58] [MailSender-DEBUG 30] %mail:1382511838455%CC: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 31] %mail:1382511838455%BCC: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 32] %mail:1382511838455%Subject: 邮件email
+[2013-10-23 15:03:58] [MailSender-DEBUG 33] %mail:1382511838455%Body: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+[2013-10-23 15:03:58] [MailSender-DEBUG 34] %mail:1382511838455%Body-html: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 35] %mail:1382511838455%Body-text: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 36] %mail:1382511838455%Reply to: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 37] %mail:1382511838455%Message ID: null
+[2013-10-23 15:03:58] [MailSender-DEBUG 38] %mail:1382511838455%In Reply To: null
+[2013-10-23 15:03:59] [MailSender-DEBUG 63] duration:555ms
+[2013-10-23 15:06:00] [MailSender-DEBUG 28] %mail:1382511960331%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:06:00] [MailSender-DEBUG 29] %mail:1382511960331%To: [1191577401@qq.com]
+[2013-10-23 15:06:00] [MailSender-DEBUG 30] %mail:1382511960331%CC: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 31] %mail:1382511960331%BCC: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 32] %mail:1382511960331%Subject: 邮件email
+[2013-10-23 15:06:00] [MailSender-DEBUG 33] %mail:1382511960331%Body: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+[2013-10-23 15:06:00] [MailSender-DEBUG 34] %mail:1382511960331%Body-html: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 35] %mail:1382511960331%Body-text: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 36] %mail:1382511960331%Reply to: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 37] %mail:1382511960331%Message ID: null
+[2013-10-23 15:06:00] [MailSender-DEBUG 38] %mail:1382511960331%In Reply To: null
+[2013-10-23 15:06:08] [MailSender-DEBUG 63] duration:8537ms
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 28] %mail:1382512815920%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 29] %mail:1382512815920%To: [1191577401@qq.com]
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 30] %mail:1382512815920%CC: [1191577401@qq.com]
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 31] %mail:1382512815920%BCC: [1191577401@qq.com]
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 32] %mail:1382512815920%Subject: 邮件email
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 33] %mail:1382512815920%Body: null
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 34] %mail:1382512815920%Body-html: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 35] %mail:1382512815920%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 36] %mail:1382512815920%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 37] %mail:1382512815920%Message ID: <1264387597.1.1382512761811.JavaMail.liuss@liuss-PC>
+[2013-10-23 15:20:15] [MailRecipient-DEBUG 38] %mail:1382512815920%In Reply To: null
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 28] %mail:1382512816655%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 29] %mail:1382512816655%To: [1191577401@qq.com]
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 30] %mail:1382512816655%CC: [1191577401@qq.com]
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 31] %mail:1382512816655%BCC: [1191577401@qq.com]
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 32] %mail:1382512816655%Subject: 邮件email
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 33] %mail:1382512816655%Body: null
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 34] %mail:1382512816655%Body-html: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 35] %mail:1382512816655%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 36] %mail:1382512816655%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 37] %mail:1382512816655%Message ID: <1264387597.1.1382512761811.JavaMail.liuss@liuss-PC>
+[2013-10-23 15:20:16] [MailRecipient-DEBUG 38] %mail:1382512816655%In Reply To: null
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 28] %mail:1382512817010%Sender: 1191577401@qq.com
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 29] %mail:1382512817010%To: [1989ti.anyi@163.com]
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 30] %mail:1382512817010%CC: [1989ti.anyi@163.com]
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 31] %mail:1382512817010%BCC: [1989ti.anyi@163.com]
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 32] %mail:1382512817010%Subject: Re: 邮件email
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 33] %mail:1382512817010%Body: null
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 34] %mail:1382512817010%Body-html: 您发送的这封邮件已经被打开。
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 35] %mail:1382512817010%Body-text: 您发送的这封邮件已经被打开。
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 36] %mail:1382512817010%Reply to: [1191577401@qq.com]
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 37] %mail:1382512817010%Message ID: <tencent_64F311B22F098E196BB27D4F@qq.com>
+[2013-10-23 15:20:17] [MailRecipient-DEBUG 38] %mail:1382512817010%In Reply To: null
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 28] %mail:1382513088930%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 29] %mail:1382513088930%To: [1191577401@qq.com]
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 30] %mail:1382513088930%CC: [1191577401@qq.com]
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 31] %mail:1382513088930%BCC: [1191577401@qq.com]
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 32] %mail:1382513088930%Subject: 邮件email
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 33] %mail:1382513088930%Body: null
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 34] %mail:1382513088930%Body-html: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 35] %mail:1382513088930%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 36] %mail:1382513088930%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 37] %mail:1382513088930%Message ID: <1264387597.1.1382512761811.JavaMail.liuss@liuss-PC>
+[2013-10-23 15:24:48] [MailRecipient-DEBUG 38] %mail:1382513088930%In Reply To: null
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 28] %mail:1382513089242%Sender: 1989ti.anyi@163.com
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 29] %mail:1382513089242%To: [1191577401@qq.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 30] %mail:1382513089242%CC: [1191577401@qq.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 31] %mail:1382513089242%BCC: [1191577401@qq.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 32] %mail:1382513089242%Subject: 邮件email
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 33] %mail:1382513089242%Body: null
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 34] %mail:1382513089242%Body-html: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 35] %mail:1382513089242%Body-text: <p>hello world!<p>内嵌资源<img src='cid:abbdsd'>aa
+
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 36] %mail:1382513089242%Reply to: [liussdne@gmail.com, liussssssdne@gmail.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 37] %mail:1382513089242%Message ID: <1264387597.1.1382512761811.JavaMail.liuss@liuss-PC>
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 38] %mail:1382513089242%In Reply To: null
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 28] %mail:1382513089747%Sender: 1191577401@qq.com
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 29] %mail:1382513089747%To: [1989ti.anyi@163.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 30] %mail:1382513089747%CC: [1989ti.anyi@163.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 31] %mail:1382513089747%BCC: [1989ti.anyi@163.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 32] %mail:1382513089747%Subject: Re: 邮件email
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 33] %mail:1382513089747%Body: null
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 34] %mail:1382513089747%Body-html: 您发送的这封邮件已经被打开。
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 35] %mail:1382513089747%Body-text: 您发送的这封邮件已经被打开。
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 36] %mail:1382513089747%Reply to: [1191577401@qq.com]
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 37] %mail:1382513089747%Message ID: <tencent_64F311B22F098E196BB27D4F@qq.com>
+[2013-10-23 15:24:49] [MailRecipient-DEBUG 38] %mail:1382513089747%In Reply To: null
