@@ -75,16 +75,26 @@ public class MailRecipient extends MailService{
 			
 			for (int i = 0; i < msgArr.length; i++) {
 				MailBean mailBean = _convert((MimeMessage)msgArr[i]);
+				boolean isAppend = true;
 				
 				if(isDebug){
 					debug(mailBean, logger);
 				}
 				
 				if(listener != null){
-					listener.each(msgArr[i], mailBean);
+					isAppend = listener.each(msgArr[i], mailBean);
 				}
 				
-				mailBeanList.add(mailBean);
+				if(isAppend){
+					try {
+						_convertMessageBody((Part)msgArr[i],mailBean);
+					} catch (IOException e) {
+						logger.error("获取邮件内容详情错误!", e);
+					}
+					
+					mailBeanList.add(mailBean);
+				}
+				
 			}
 			
 			folder.close(true);
@@ -152,12 +162,6 @@ public class MailRecipient extends MailService{
 		
 		mailBean.setAttachments(new HashMap<String,File>());
 		mailBean.setInnerResources(new HashMap<String,File>());
-		
-		try {
-			_convertMessageBody((Part)msg,mailBean);
-		} catch (IOException e) {
-			logger.error("获取邮件内容详情错误!", e);
-		}
 		
 		return mailBean;
 	}

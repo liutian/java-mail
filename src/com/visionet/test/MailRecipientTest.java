@@ -25,22 +25,26 @@ public class MailRecipientTest {
 		prop.put(MailService.USERPWD, "w13783208079m");
 		MailRecipient recipient = new MailRecipient(prop);
 		recipient.setDebug(true);
-		recipient.setDownloadFile(false);
+		recipient.setDownloadFile(true);
 		recipient.setResourceDirPath("e:\\emaildir");
 		
-//		Flags flags = new Flags(Flags.Flag.RECENT);//未读
-//		SearchTerm searchTerm = new FlagTerm(flags,true); 
-//		recipient.setSearchTerm(searchTerm);
+		//Flags flags = new Flags(Flags.Flag.RECENT);//未读
+		//SearchTerm searchTerm = new FlagTerm(flags,true);
+		//或者
+		//SearchTerm searchTerm = new MessageIDTerm("<tencent_75378A790103137823D04F24@qq.com>");
+		//recipient.setSearchTerm(searchTerm);
 		
 		recipient.setListener(new MailListener() {
 			
-			public void each(Message msg, MailBean mailBean) {
+			public boolean each(Message msg, MailBean mailBean) {
 				try {
 					msg.setFlag(Flags.Flag.SEEN, true);
 //					msg.setFlag(Flags.Flag.DELETED, true);
 				} catch (MessagingException e) {
 					e.printStackTrace();
 				}
+				
+				return true;
 			}
 			
 			public boolean connect(Store store){
